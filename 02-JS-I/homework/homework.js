@@ -4,7 +4,7 @@
 const nuevaString = 'Hola';
 
 // Crea una variable numérica, puede ser cualquier número:
-const nuevoNum = 5;
+const nuevoNum = 8;
 
 // Crea una variable booleana:
 const nuevoBool = true;
@@ -16,7 +16,7 @@ const nuevaResta = 10 - 5 === 5;
 const nuevaMultiplicacion = 10 * 4 === 40 ;
 
 // Resuelve el siguiente problema matemático:
-const nuevoModulo = 21 % 5 === 4.2 ;
+const nuevoModulo = 21 % 5 === 1 ;
 
 
 // En los próximos 22 problemas, deberás completar la función.
@@ -244,5 +244,5 @@ module.exports = {
   retornarPerimetro,
   areaDelTriangulo,
   deEuroAdolar,
-  esVocal,
-};
+  esVocal,};
+
