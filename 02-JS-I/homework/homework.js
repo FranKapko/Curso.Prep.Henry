@@ -211,7 +211,7 @@ return "es vocal"}}
 // No modificar nada debajo de esta línea
 // --------------------------------
 
-module.exports = {
+module.exports = {  
   nuevaString,
   nuevoNum,
   nuevoBool,
