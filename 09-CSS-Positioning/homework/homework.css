@@ -66,3 +66,8 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
     align-self:baseline;
     flex-direction: column-reverse;
 }
+
+#elementoDos{
+    position: relative;
+    top:50px;
+}
